@@ -38,3 +38,23 @@
     - Usually start by being trained with the unsupervised approach, then might be trained further with the supervised or reinforcement approach 
 
 ## Supervised Learning
+### Core Concepts:
+#### Data:
+- Related data is stored in datasets
+- Datasets are made up of individual examples
+- Two labeled examples (include both features and labels):
+![Alt text](image-1.png)
+- Two unlabeled examples(only includes features):
+![Alt text](image-2.png)
+- A dataset's size indicates the number of examples; a dataset's diversity indicates the range the examples cover
+
+#### Model:
+
+
+#### Training:
+
+
+#### Evaluating:
+
+
+#### Inference:
